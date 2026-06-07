@@ -3,48 +3,48 @@ import { Briefcase, Image, Video, Palette, Megaphone, PenTool, Layout, Graduatio
 
 // Constants for Services content
 const SERVICES_CONTENT = {
-  title: "Especialidades y Servicios Estratégicos",
-  subtitle: "Soluciones 360° para posicionamiento y estrategia digital",
+  title: "Servicios de Marketing Digital y Diseño Gráfico",
+  subtitle: "Soluciones 360° para posicionamiento, estrategia de marca y crecimiento digital",
   services: [
     {
       icon: Briefcase,
-      title: "Asesoría de marca",
-      description: "Para emprendedores o PYMES"
+      title: "Consultoría de Marca",
+      description: "Estrategia de marca para emprendedores y PYMES"
     },
     {
       icon: Image,
-      title: "Imagen corporativa",
-      description: "Identidad visual profesional"
+      title: "Diseño de Imagen Corporativa",
+      description: "Identidad visual profesional y branding"
     },
     {
       icon: Video,
-      title: "Proyectos audiovisuales",
-      description: "Producción de contenido multimedia"
+      title: "Producción Audiovisual",
+      description: "Contenido multimedia para marketing digital"
     },
     {
       icon: Palette,
-      title: "Diseño gráfico",
-      description: "Creatividad visual impactante"
+      title: "Diseño Gráfico Profesional",
+      description: "Creatividad visual impactante para tu marca"
     },
     {
       icon: Megaphone,
       title: "Campañas de Meta ADS",
-      description: "Publicidad efectiva en redes"
+      description: "Publicidad digital efectiva en redes sociales"
     },
     {
       icon: PenTool,
-      title: "Marketing de contenidos",
-      description: "Estrategias de contenido orgánico"
+      title: "Marketing de Contenidos",
+      description: "Estrategias de contenido orgánico y engagement"
     },
     {
       icon: Layout,
-      title: "Landing pages",
-      description: "Páginas de conversión optimizadas"
+      title: "Landing Pages",
+      description: "Páginas de conversión optimizadas para ventas"
     },
     {
       icon: GraduationCap,
-      title: "Talleres con IA",
-      description: "Implementación de Inteligencia Artificial"
+      title: "Talleres de IA",
+      description: "Implementación de Inteligencia Artificial en marketing"
     }
   ]
 };

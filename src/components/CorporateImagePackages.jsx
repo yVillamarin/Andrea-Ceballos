@@ -3,8 +3,8 @@ import { Check, Star } from "lucide-react";
 
 // Constants for Corporate Image Packages content
 const PACKAGES_CONTENT = {
-  title: "PAQUETES DE IMAGEN CORPORATIVA",
-  subtitle: "Transforma la identidad visual de tu marca con nuestros planes profesionales",
+  title: "Planes de Marketing y Diseño de Imagen Corporativa",
+  subtitle: "Transforma la identidad visual de tu marca con nuestros planes profesionales de marketing y diseño gráfico",
   packages: [
     {
       name: "Plan BÁSICO",

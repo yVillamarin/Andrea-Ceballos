@@ -3,17 +3,17 @@ import { Palette, Target } from "lucide-react";
 
 // Constants for AboutMe content
 const ABOUT_CONTENT = {
-  subtitle: "Tu guía en este camino",
+  subtitle: "Tu consultora de marketing digital y diseño gráfico",
   name: "Andrea Ceballos",
-  description: "Diseñadora y consultora, me siento con cada cliente a analizar la psicología de su comprador, optimizar sus campañas y estructurar su comunicación con datos reales.",
+  description: "Diseñadora gráfica y consultora de marketing digital con especialización en estrategia de marca. Me siento con cada cliente a analizar la psicología de su comprador, optimizar sus campañas publicitarias y estructurar su comunicación con datos reales para maximizar resultados.",
   points: [
     {
       icon: Palette,
-      text: "Con un enfoque 100% autodidacta y analítico ayudo a negocios a alcanzar sus objetivos comerciales, mediante el diseño y la optimización de estrategias orgánicas y publicitarias."
+      text: "Con un enfoque 100% autodidacta y analítico, ayudo a negocios a alcanzar sus objetivos comerciales mediante diseño gráfico profesional y la optimización de estrategias orgánicas y publicitarias de marketing digital."
     },
     {
       icon: Target,
-      text: "Mi misión es lograr que negocios y proyectos puedan alcanzar el éxito que desean, transformando su creatividad en resultados tangibles y crecimiento sostenible."
+      text: "Mi misión es lograr que negocios y proyectos puedan alcanzar el éxito que desean, transformando su creatividad en resultados tangibles y crecimiento sostenible mediante planes de marketing personalizados."
     }
   ],
   quote: "No necesitas más seguidores. Necesitas los seguidores correctos y el mensaje correcto para convertirlos en clientes.",
@@ -27,7 +27,7 @@ const ProfileImage = () => (
       <div className="w-full h-full rounded-full bg-dark-lighter flex items-center justify-center overflow-hidden">
         <img 
           src="/image/DSC08416.jpg.jpeg" 
-          alt="Andrea Ceballos" 
+          alt="Andrea Ceballos - Consultora de Marketing Digital y Diseño Gráfico Profesional" 
           className="w-full h-full object-cover"
         />
       </div>

@@ -4,8 +4,8 @@ import { Smartphone } from "lucide-react";
 // Constants for hero content
 const HERO_CONTENT = {
   name: "Andrea Ceballos",
-  title: "¿Publicas contenido todos los días, pero tu negocio sigue sin vender?",
-  subtitle: "Transformo marcas estancadas en negocios con propósito. Combinando diseño estratégico, producción audiovisual e Inteligencia Artificial para que dejes de regalarle clientes a tu competencia.",
+  title: "Marketing Digital y Diseño Gráfico Profesional",
+  subtitle: "Transformo marcas estancadas en negocios con propósito. Combinando estrategia de marketing digital, diseño gráfico profesional, producción audiovisual e Inteligencia Artificial para que dejes de regalarle clientes a tu competencia con planes de marketing personalizados.",
   cta: "Quiero una auditoría gratuita"
 };
 
@@ -26,7 +26,7 @@ const PhoneMockup = () => (
           <div className="w-full h-full bg-dark-lighter rounded-2xl flex items-center justify-center overflow-hidden">
             <img 
               src="/image/DSC08437.jpg.jpeg" 
-              alt="Andrea Ceballos" 
+              alt="Andrea Ceballos - Consultora de Marketing Digital y Diseño Gráfico" 
               className="w-full h-full object-cover"
             />
           </div>
@@ -88,7 +88,7 @@ export default function HeroSection() {
                 <div className="w-full h-full rounded-full bg-dark-lighter flex items-center justify-center overflow-hidden">
                   <img 
                     src="/image/IMG_1439.JPG.jpeg" 
-                    alt="Andrea Ceballos" 
+                    alt="Andrea Ceballos - Experta en Marketing Digital y Estrategia de Marca" 
                     className="w-full h-full object-cover"
                   />
                 </div>
