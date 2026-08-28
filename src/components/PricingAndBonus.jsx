@@ -50,7 +50,7 @@ const FooterSection = () => (
   >
     <div className="flex items-center justify-center gap-3 mb-6">
       <img 
-        src="/image/logo andris.png" 
+        src="/image/logo amarillo.png" 
         alt="Andris Marketer - Logo de Andrea Ceballos Marketing Digital" 
         className="w-32 h-32 object-contain"
       />
